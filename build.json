@@ -2,7 +2,7 @@
 	"source" : "extend",
 	"id": "push_notifications",
 	"version": "1.0",
-	"description": "Push Notifications for UliCMS powered by Engagespot",
+	"description": "Push Notifications for UliCMS (Powered by Engagespot)",
 	"categories": [
 		"newsletter",
 		"mobile"

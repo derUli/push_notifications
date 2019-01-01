@@ -12,8 +12,10 @@ Push Notifications are powered by [Engagespot Account](https://engagespot.co/).
 
 ## Configuration
 
-1. After installation you have to give the "push_notifications_settings" permission to your account.
+1. After installation of the module you have to give the "push_notifications_settings" permission to your account.
 2. Open the User Interface of the module.
 3. Enter your "Site Key" for Engagespot in the settings and save the settings
-4. An "bell" icon is now shown at your website frontend, which enables users to subscribe to push notifications.
-5. [Login to Engagespot](https://app.engagespot.co/login) to send messages to your subscribers.
+5. An "bell" icon is now shown at your website frontend, which enables users to subscribe to push notifications.
+6. [Login to Engagespot](https://app.engagespot.co/login)
+7. Click "Website Settings" > "Customize" > "Install Engagespot" > "Javascript".
+8. There is a zip file. Download it and copy the two files contained in the zip file to the root folder of your domain.
