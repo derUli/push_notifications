@@ -3,7 +3,7 @@
 Push Notifications are messages that are shown on the smartphone displays of your visitors even if the user isn't on your website currently.
 Visitors can subscribe to push notifications while visiting your website.
 You can send push notifications to all subscribers.
-Push Notifications are powered by [Engagespot Account](https://engagespot.co/).
+Push Notifications are powered by [Engagespot](https://engagespot.co/).
 
 ## Requirements
 
