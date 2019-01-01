@@ -1,0 +1,12 @@
+{
+	"source" : "extend",
+	"id": "push_notifications",
+	"version": "1.0",
+	"description": "Push Notifications for UliCMS powered by Engagespot",
+	"categories": [
+		"newsletter",
+		"mobile"
+	],
+	"compatible_from": "2018.3",
+	"dependencies": []
+}
