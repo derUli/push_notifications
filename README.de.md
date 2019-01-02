@@ -6,12 +6,12 @@ Die Benachrichtungen werden sogar dann angezeigt, wenn der Anwender die abonnier
 Sie können Push Benachrichtigungen an alle Abonnenten senden.
 Push Benachrichtigungen für UliCMS basieren auf den Diensten von [Engagespot](https://engagespot.co/).
 
-## Requirements
+## Systemvoraussetzungen
 
 * UliCMS 2018.3 oder neuer
 * Ein [Engagespot Account](https://app.engagespot.co/register)
 
-## Configuration
+## Konfiguration
 
 1. Nach der Installation müssen Sie Ihrem Benutzer über die Gruppen die Berechtigungen geben "push_notifications_settings".
 2. Öffnen Sie die Benutzeroberfläche des Moduls über die "Pakete" Seite.
